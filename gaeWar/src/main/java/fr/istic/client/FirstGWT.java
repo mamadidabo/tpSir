@@ -44,7 +44,7 @@ public class FirstGWT implements EntryPoint {
 	final RootPanel rootPanel = RootPanel.get();
 	
 	// sauvegarde de l'emplacement du bouton ajouter consonmmation
-	int empl_btnAddConso = 0;
+	int empl_btnAddConso = 0;    
 	
 	// création des boutons
 	private Button createPerson = new Button("Creer Personne");
